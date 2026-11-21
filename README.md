@@ -26,6 +26,7 @@ The version in this repository is the canonical one. It names who wrote it and w
 | Path | What it is |
 |---|---|
 | [`prompts/`](prompts/) | The prompts for researching and drafting a Story, phase by phase |
+| [`templates/`](templates/) | A very basic mutual NDA for a Story. Bring your own publication consent |
 | `blueprint.md` | The full format: process, roles, timeline, lessons learned. Coming soon |
 | `stories/` | Every published Story. Opens with the first one |
 | [`LICENSE`](LICENSE) | CC BY-SA 4.0 |
