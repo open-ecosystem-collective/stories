@@ -22,7 +22,7 @@ Every Story publishes on the same three channels:
 
 All or nothing holds for the channels too. Every party approves every channel, or the Story doesn't publish anywhere. No channel goes live with a smaller group of parties.
 
-The approvals live in the same document: a channel approval table at the end, where every party approves every channel itself. Everybody sees who approved what, and what's still open. The signed Publication Consent stays the binding record.
+The approvals live in the same document: a channel approval table at the end, where every party approves every channel itself. Everybody sees who approved what, and what's still open. The signed Publication Consent stays the binding record. Every author brings their own; this repository doesn't provide one.
 
 Which provider hosts the shared document is decided by the author and the customer together. The prompts don't assume one.
 
@@ -33,7 +33,7 @@ Which provider hosts the shared document is decided by the author and the custom
 - Start every session with the context block, filled in for your Story.
 - Run the prompts in order. Anything in `{curly braces}` is yours to fill in.
 - Every output is a draft. You're the author, and you sign it off.
-- What a party shares under the Mutual NDA is confidential. Check your AI tool's data settings before you paste it.
+- What a party shares under the NDA ([template](../templates/mutual-nda.md)) is confidential. Check your AI tool's data settings before you paste it.
 
 | Prompt | Phase | When |
 |---|---|---|
