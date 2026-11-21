@@ -13,7 +13,7 @@ That's the only rule. Everything else is self-accountability.
 ## How a Story gets here
 
 1. The author writes a base story from the traces the project left, and draws the ecosystem map.
-2. The customer reads it first, checks it's complete and decides whether the project may become a Story.
+2. The customer reads it first, checks it's complete and decides within two weeks whether the project may become a Story.
 3. The customer introduces the author to every partner. The author then sends every partner the same mail on the same day.
 4. Each partner says in or out within two weeks, then gets at least two months to write its own section and quote.
 5. Every party approves every channel in the shared document and signs the Publication Consent.
@@ -27,7 +27,7 @@ The version in this repository is the canonical one. It names who wrote it and w
 |---|---|
 | [`prompts/`](prompts/) | The prompts for researching and drafting a Story, phase by phase |
 | [`templates/`](templates/) | A very basic mutual NDA for a Story. Bring your own publication consent |
-| `blueprint.md` | The full format: process, roles, timeline, lessons learned. Coming soon |
+| [`blueprint.md`](blueprint.md) | The full format: process, roles, timeline, lessons learned |
 | `stories/` | Every published Story. Opens with the first one |
 | [`LICENSE`](LICENSE) | CC BY-SA 4.0 |
 
