@@ -38,14 +38,14 @@ Which provider hosts the shared document is decided by the author and the custom
 | Prompt | Phase | When |
 |---|---|---|
 | Context block | all | Start of every session |
-| 1. Traces and map | 0 | Before anybody is asked anything |
-| 2. Base story | 0 | Once the map holds |
-| 3. Press release test | 0 | Before the draft leaves your desk |
-| 4. Customer check | customer | The customer sees the base story first |
-| 5. Customer introduction | customer | Once the customer approved |
-| 6. The ask | 1 | Same mail, same day, to every partner |
-| 7. Final check | 3 to 4 | After every party wrote its part |
-| 8. Repository version | 5 | Once every consent is signed |
+| 1. Traces and map | 0 · Foundation | Before anybody is asked anything |
+| 2. Base story | 0 · Foundation | Once the map holds |
+| 3. Press release test | 0 · Foundation | Before the draft leaves your desk |
+| 4. Customer check | 1 · Customer | The customer sees the base story first |
+| 5. Customer introduction | 1 · Customer | Once the customer approved |
+| 6. The ask | 2 · The ask | Same mail, same day, to every partner |
+| 7. Final check | 5 · Approval | After every party wrote its part |
+| 8. Repository version | 6 · Publication | Once every consent is signed |
 
 ---
 
@@ -146,7 +146,7 @@ The project belongs to the customer before it belongs to anybody's story. The cu
 Draft a mail from me to {named contact at the customer}, with the base story
 and the map attached.
 
-It asks the customer to:
+It asks the customer to decide within two weeks, and to:
 - check the story is complete: every partner who contributed is in the map,
   and nothing important is missing or wrong,
 - approve the use of the project for an Open Ecosystem Success Story,
