@@ -35,6 +35,8 @@ The version in this repository is the canonical one. It names who wrote it and w
 
 Take the format and run it on your own project. That's what it's here for. If you do, tell us what broke, so the next run gets better.
 
+Everything here is CC BY-SA 4.0. When you use or adapt it, credit it as **Open Ecosystem Collective**, with a link to [github.com/open-ecosystem-collective](https://github.com/open-ecosystem-collective).
+
 Know a partnership that deserves an honest record? Tell us at [open-ecosystem-collective.com](https://open-ecosystem-collective.com).
 
 ---
